@@ -8,6 +8,14 @@ array = [0, 0, 0, 0]
 #init varriables
 delay = int(1)
 
+
+
+
+#setup
+os.system("clear")
+print("Thanks for doenload! --Atlas11x")
+time.sleep(delay)
+os.system("clear")
 #loop
 while True:
 	for i in range(len(array) + 1):
